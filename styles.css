@@ -1,0 +1,36 @@
+	h3 {
+		padding:  2%5% ;
+	}
+	.info {
+		background-color:  white ;
+		border-collapse:  separate ;
+		border-left-width:  16px ;
+		border-right-width:  85px ;
+		padding:  1%1% ;
+		border:  2px solid ;
+		border-collapse:  separate ;
+		border-spacing:  20px ;
+		border-color:  #dcdcdc ;
+		width:  90% ;
+		margin-left:  3% ;
+		margin-bottom:  5% ;
+		height:  100% ;
+	}
+	.boclass {
+		border-style:  solid ;
+		border-color:  #dcdcdc ;
+		background-color:  #f5fffa ;
+		box-shadow:  10px10px5px #d3d3d3 ;
+		width:  25% ;
+		height:  100% ;
+	}
+	img {
+	padding:  5%5% ;
+	}
+	ul {
+		list-style:  none ;
+	}
+	span{
+		font-weight:  bold ;
+	}
+	
